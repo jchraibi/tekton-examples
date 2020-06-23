@@ -1,2 +1,2 @@
-# tekton-examples
-Various Tekton examples
+# Tekton Examples
+Various Tekton with ArgoCD
